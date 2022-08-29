@@ -29,6 +29,6 @@ add click handler to display something by loading data
 
 # PRACTICE-5 {
 
-    explore netork chrome devtool -- preview
+    explore network chrome developers tools -- preview
 
 }
